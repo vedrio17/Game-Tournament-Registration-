@@ -21,10 +21,9 @@ Welcome to the BGMI (Battle Grounds Mobile India) website and tournament registr
 
 To get started with this project, follow these steps:
 
+
 1. **Clone the Repository:**
    ```bash
-
-   
     git clone https://github.com/your-username/BGMI-Website.git
     cd BGMI-Website
 
